@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Gjloss. Thanks for checking this out 🙏. 
+- I valued inventors more than anything since forever. Becoming a developer enables me to give substance to my ideas 💡. 
+- 🌱 I’m currently learning Javascript, enough to do for a lifetime as it's so rich.
+- I've been self-teaching using FreeCodeCamp for a while now, occasionnally doing some challenges on CodeWars. And went through a bootcamp called Le Reacteur to give it a boost.
+- 💞️ I’m looking to collaborate on any project that can help me hone my skills, especially open source, especially for charities or related to the slow code movement.
+- 📫 Reach out to me via email @josselin.milon@lilo.org
+- PS: huge fan of Indiana Jones 🤠.
